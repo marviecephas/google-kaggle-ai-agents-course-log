@@ -1,4 +1,4 @@
-rofilerohttpserohttpsJourney: Google's 5-Day AI Agents Intensive Course
+# Journey: Google's 5-Day AI Agents Intensive Course
 
 
 Welcome to my repository for the **Google & Kaggle 5-Day AI Agents Intensive Course** (November 9-14, 2025). This repo serves as my personal log, code notebook, and project hub as I dive deep into the world of intelligent AI agents.
@@ -51,6 +51,6 @@ This repository is organized by day, with a final folder for the capstone projec
 
 I'll be posting daily updates and key takeaways from this course on my social media. Let's connect!
 
-* **LinkedIn:** [My linkedin Url] (https(https://www.linkedin.com/in/marviecephas)
-* **X (Twitter):** [My X rmarvieceph//x.com/marvieceph)
-* **GitHub:** [My Github Profile] (httpsofilehttpshttpshttps://github.com/marviecephas]
+* **LinkedIn:** [My Linkedin Url] (https://www.linkedin.com/in/marviecephas)
+* **X (Twitter):** [My X Url] (https://x.com/marvieceph)
+* **GitHub:** [My Github Url] (https://github.com/marviecephas)
