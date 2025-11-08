@@ -1,4 +1,4 @@
-# My httpshas Google's 5-Day AI Agents Intensive Course
+# My Journey : Google's 5-Day AI Agents Intensive Course
 
 
 Welcome to my repository for the **Google & Kaggle 5-Day AI Agents Intensive Course** (November 9-14, 2025). This repo serves as my personal log, code notebook, and project hub as I dive deep into the world of intelligent AI agents.
@@ -19,12 +19,12 @@ My primary goal is to bridge the gap between standalone ML models and fully auto
 
 This repository is organized by day, with a final folder for the capstone project.
 
-* **/Day 01 - [Topic TBD]:** Contains codelabs, notes, and experiments from Day 1.
-* **/Day 02 - [Topic TBD]:** Contains codelabs, notes, and experiments from Day 2.
-* **/Day 03 - [Topic TBD]:** Contains codelabs, notes, and experiments from Day 3.
-* **/Day 04 - [Topic TBD]:** Contains codelabs, notes, and experiments from Day 4.
-* **/Day 05 - [Topic TBD]:** Contains codelabs, notes, and experiments from Day 5.
-* **/Capstone Project:** Contains all the code, notebooks, and documentation for my final project submission.
+* **Day 01 - [Topic TBD]:** Contains codelabs, notes, and experiments from Day 1.
+* **Day 02 - [Topic TBD]:** Contains codelabs, notes, and from from Day 2.
+* **Day 03 - [Topic TBD]:** Contains codelabs, notes, and experiments from Day 3.
+* **Day 04 - [Topic TBD]:** Contains codelabs, notes, and experiments from Day 4.
+* **Day 05 - [Topic TBD]:** Contains codelabs, notes, and experiments from Day 5.
+* **Capstone Project:** Contains all the code, notebooks, and documentation for my final project submission.
 
 ---
 
