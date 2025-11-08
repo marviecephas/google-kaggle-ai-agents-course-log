@@ -50,4 +50,7 @@ This repository is organized by day, with a final folder for the capstone projec
 ## 👋 Connect With Me
 
 I'll be posting daily updates and key takeaways from this course on my social media. Let's connect!
-j-LmWkQGitHub;**ubleURL]
+
+* **LinkedIn:** [Your LinkedIn Profile URL]
+* **X (Twitter):** [@YourTwitterHandle]
+* **GitHub:** [YourGitHubProfileURL]
