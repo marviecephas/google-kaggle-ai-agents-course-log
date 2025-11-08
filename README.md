@@ -1,7 +1,5 @@
 # My Journey: Google's 5-Day AI Agents Intensive Course
 
-![AI Agents Course](https://i.imgur.com/8a6Q4D6.png) 
-*(Feel free to replace this banner with one you like!)*
 
 Welcome to my repository for the **Google & Kaggle 5-Day AI Agents Intensive Course** (November 9-14, 2025). This repo serves as my personal log, code notebook, and project hub as I dive deep into the world of intelligent AI agents.
 
