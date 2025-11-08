@@ -51,6 +51,6 @@ This repository is organized by day, with a final folder for the capstone projec
 
 I'll be posting daily updates and key takeaways from this course on my social media. Let's connect!
 
-* **LinkedIn:** [My Linkedin Url](https://www.linkedin.com/in/marviecephas)
-* **X (Twitter):** [My X Url](https://x.com/marvieceph)
-* **GitHub:** [My Github Url](https://github.com/marviecephas)
+* **LinkedIn:** [My Linkedin](https://www.linkedin.com/in/marviecephas)
+* **X (Twitter):** [My X(Twitter)](https://x.com/marvieceph)
+* **GitHub:** [My Github](https://github.com/marviecephas)
