@@ -31,5 +31,6 @@ I extended the Codelab 2 multi-agent system by adding a `TranslatorAgent` to the
 * **The Lesson:** **Strict prompt engineering** is non-negotiable for multi-agent systems. You must force each agent to stay in its own lane to get a predictable, reliable result.
 
 ### 📓 View My Work
+* [See the notebook with my custom calculator tool here.](./notebook1c009fb213.ipynb%20(1).txt)
 
 * [See the notebook with my 3 agents sequential chain here.](./notebook1c009fb213.ipynb%20(3).txt)
