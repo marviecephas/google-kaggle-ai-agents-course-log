@@ -10,7 +10,7 @@ This was a two-part lesson:
 
 * **[Codelab 4a: Agent Observability](./day-4a-agent-observability.ipynb.txt)**
 * **[Codelab 4b: Agent Evaluation](./day-4b-agent-evaluation.ipynb.txt)**
-* **[My Practice Task: The "Buggy" Shopping Agent](./shopping-agent/)** (This folder contains my `agent.py` and evaluation files)
+* **[My Practice Task: The "Buggy" Shopping Agent](./shopping-agent/)** (./notebookc2032101e1.ipynb.txt)
 
 ---
 
@@ -56,4 +56,4 @@ After I saw the log, I knew how to fix it:
 3.  I created a "golden test" file (`shopping_test.evalset.json`) that describes the *perfect* conversation, including the correct tool calls (`view_list`, then `get_item_count`) and the correct final answer (`"You have 3 items on your list."`).
 4.  I created a `test_config.json` to require a 100% perfect score.
 
-Now, I can just run `!adk eval` anytime. This automated test will instantly **FAIL** if any future change breaks my agent's counting logic, which "locks in" my fix and prevents future f
+Now, I can just run `!adk eval` anytime. This automated test will instantly **FAIL** if any future change breaks my agent's counting logic, which "locks in" my fix and prevents future bugs.
